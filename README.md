@@ -1,2 +1,2 @@
 # End-of-the-course-project
-Movie and TV series recommander system using emotional data
+Movie recommander system using TheMovie data set and recommended system
